@@ -31,6 +31,10 @@
     "react-dom": "16.2.0",
     "react-motion": "0.5.0"
   },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/zhouxf789/zhouxf999.git"
+  },
   "devDependencies": {
     "autoprefixer": "7.2.4",
     "babel-cli": "6.26.0",
